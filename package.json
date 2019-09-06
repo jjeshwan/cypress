@@ -1,0 +1,22 @@
+{
+  "name": "cypress-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjeshwan/cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjeshwan/cypress/issues"
+  },
+  "homepage": "https://github.com/jjeshwan/cypress#readme",
+  "dependencies": {
+    "cypress": "^3.4.1"
+  }
+}
